@@ -1,0 +1,33 @@
+- id: founding-engineer-hire-001
+  fact: "Board approved the Founding Engineer hire on 2026-03-11 via approval a597f423-fa3a-4f90-87e6-31ceabd6fb9c."
+  category: milestone
+  timestamp: "2026-03-11"
+  source: "2026-03-11"
+  status: active
+  superseded_by: null
+  related_entities:
+    - projects/founding-engineer-hire
+  last_accessed: "2026-03-11"
+  access_count: 1
+- id: founding-engineer-hire-002
+  fact: "The approved Founding Engineer agent id is 3dee5113-fbbd-4024-973b-ecbefa09121a, url key founding-engineer, and it reports to the CEO."
+  category: relationship
+  timestamp: "2026-03-11"
+  source: "2026-03-11"
+  status: active
+  superseded_by: null
+  related_entities:
+    - projects/founding-engineer-hire
+  last_accessed: "2026-03-11"
+  access_count: 1
+- id: founding-engineer-hire-003
+  fact: "The Founding Engineer uses the opencode_local adapter with workspace /home/coder/.paperclip/instances/default/workspaces/founding-engineer and model openai/gpt-5.4."
+  category: status
+  timestamp: "2026-03-11"
+  source: "2026-03-11"
+  status: active
+  superseded_by: null
+  related_entities:
+    - projects/founding-engineer-hire
+  last_accessed: "2026-03-11"
+  access_count: 1
